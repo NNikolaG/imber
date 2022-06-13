@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,7 +11,8 @@
     @include('common.header')
 
     @yield('content')
-
-    @include('common.scripts')
+    @yield('footer')
+</div>
+@include('common.scripts')
 </body>
 </html>

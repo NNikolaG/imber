@@ -1,12 +1,12 @@
 <div class="chatbox">
     <div class="chat-mg">
-        <a href="#" title=""><img src="images\resources\usr-img1.png" alt=""></a>
+{{--        <a href="#" title=""><img src="images\resources\usr-img1.png" alt=""></a>--}}
         <span>2</span>
     </div>
     <div class="conversation-box">
         <div class="con-title mg-3">
             <div class="chat-user-info">
-                <img src="images\resources\us-img1.png" alt="">
+{{--                <img src="images\resources\us-img1.png" alt="">--}}
                 <h3>John Doe <span class="status-info"></span></h3>
             </div>
             <div class="st-icons">
